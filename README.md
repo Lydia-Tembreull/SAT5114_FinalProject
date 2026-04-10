@@ -3,7 +3,7 @@
 ## Project Overview
 Obstructive Sleep Apnea (OSA) is an increasing prevalent disease linked with cardiovascular disease and metabolic syndrome that is grossly under-diagnosed. Polysomnography (PSG), the current gold-standard for diagnosis, is costly and labor intensive.
 
-Here, I show the potential for Automated Clinical Decision Support using demographic and physiological data to predict disease severity. I trained and tested models using the publicly available Sleep Heart Health Study (SHHS) dataset to predict one of four clinically defined levels of OSA severity using the Apnea-Hypopnea Index (AHI).
+Here, the potential for Automated Clinical Decision Support is shown using demographic and physiological data to predict disease severity. The models are trained and tested using the publicly available Sleep Heart Health Study (SHHS) dataset to predict one of four clinically defined levels of OSA severity using the Apnea-Hypopnea Index (AHI).
 
 #### Goals:
 - Achieve a multi-class classification accuracy of at least 75%.
