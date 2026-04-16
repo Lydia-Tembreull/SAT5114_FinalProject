@@ -2,7 +2,7 @@
 
 ## 🔗 Quick Links
 - **Video Presentation**: [YouTube Link Here](https://youtu.be/sFZuKeZ7rqk)
-- **Presentation Slides**: [Cick Here to View Slides](Lydia_Tembreull_Sleep_Apnea.pdf)
+- **Presentation Slides**: [Cick Here to View Slides](file:///C:/Users/swiml/SAT5114_FinalProject/Lydia_Tembreull_Sleep_Apnea.pdf)
 
 ## Project Overview
 Obstructive Sleep Apnea (OSA) is an increasing prevalent disease linked with cardiovascular disease and metabolic syndrome that is grossly under-diagnosed. Polysomnography (PSG), the current gold-standard for diagnosis, is costly and labor intensive.
