@@ -1,5 +1,8 @@
 # Predicting Sleep Apnea Severity (OSA) Based on Physiological and Demographic Data
 
+## Video Presentation Link
+[Watch the Final Presentation Here](https://youtu.be/sFZuKeZ7rqk)
+
 ## Project Overview
 Obstructive Sleep Apnea (OSA) is an increasing prevalent disease linked with cardiovascular disease and metabolic syndrome that is grossly under-diagnosed. Polysomnography (PSG), the current gold-standard for diagnosis, is costly and labor intensive.
 
@@ -63,4 +66,3 @@ The final model (Logistic Regression with tuned hyperparameters) achieved the fo
 - **Li, S., et al. (2025).** Advances in Machine Learning Prediction Models for the Screening of Obstructive Sleep Apnea in Adults. *Nature and Science of Sleep.*
 - **Maniaci, A., et al. (2023).** Machine Learning Identification of Obstructive Sleep Apnea Severity through the Patient Clinical Features. *MDPI.*
 - **Shi, Y., et al. (2023).** Application and interpretation of machine learning models in predicting the risk of severe obstructive sleep apnea in adults. *BMC Medical Information and Decision Making.*
-
