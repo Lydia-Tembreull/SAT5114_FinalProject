@@ -43,6 +43,7 @@ The final model (Logistic Regression with tuned hyperparameters) achieved the fo
 - **Key Insight**: Male gender, advanced age, neck circumference, and BMI were identified as the primary positive drivers for Severe Obstructive Sleep Apnea classification. Mean oxygen saturation (`mnsao2rh`) acted as the most significant negative predictor.
 
 ## Project Structure
+- `Lydia_Tembreull_Sleep_Apnea.pdf`: PDF of slides.
 - `SleepApnea.ipynb`: Full ML pipeline including EDA, preprocessing, model tuning, and SHAP analysis.
 - `shhs1-dataset-0.21.0.csv`: Source data (requires access via NSSR).
 - `sshs-data-dictionary-0.21.0-variables.csv`: Supporting file that helps with variable decoding and categorical mapping.
